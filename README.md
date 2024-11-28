@@ -6,11 +6,11 @@ These project heavily inspired from my workplace that use TDD+DDD pattern, but I
 
 ## 1. Getting started
 Simply Install the `node_modules` first
-```sh
+```bash
 yarn install
 ```
 Run the development server
-```sh
+```bash
 yarn run dev
 ```
 
@@ -18,7 +18,7 @@ Open [http://localhost:5173](http://localhost:5173)
 
 ## 2. Understanding the Project Structure
 My templates project structure may broken down in to this list:
-```sh
+```bash
 ├── App.tsx: ["Root of the app, use to declare route, and others library global context"]
 ├── main.tsx: ["Injector to react DOM"]
 ├── assets: ["All static assets should be defined here"]
@@ -34,12 +34,11 @@ My templates project structure may broken down in to this list:
 
 ## 3. Build to Production
 1. Make sure to use your own `.env` production
-```
-BASE_URL=.....
-SECRET_KEYS=...
+```plaintext
+VITE_EXAMPLE_API_URL=https://pokeapi.co/api/v2/
 ```
 2. Build the project
-```sh
+```bash
 yarn run build
 ```
 By running this command will generate compiled project to `./dist`, you can deploy the object to your hosted server
