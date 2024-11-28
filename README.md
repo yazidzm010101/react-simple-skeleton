@@ -1,4 +1,4 @@
-# Simple React + TypeScript + Skeleton
+# Simple `React + TypeScript` Skeleton
 These project heavily inspired from my workplace that use TDD+DDD pattern, but I feel it's pattern too complex for simple-medium scale apps or prototype level app. So I decided to build my simplified version that mimicks MVVP approach. You may read the general explanation [here](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel).
 
 ![MVVP](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/MVVMPattern.svg/500px-MVVMPattern.svg.png)
