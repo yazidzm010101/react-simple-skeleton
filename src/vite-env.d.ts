@@ -1,7 +1,7 @@
 /// <reference types="vite/client" />
 
 interface ImportMetaEnv {
-  readonly VITE_EXAMPLE_API_URL: string;
+  readonly REACT_APP_EXAMPLE_API_URL: string;
   // Add other environment variables here as needed
 }
 
