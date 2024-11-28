@@ -1,3 +1,3 @@
-export const BASE_API_EXAMPLE = 'https://pokeapi.co/api/v2'
+export const BASE_API_EXAMPLE = import.meta.env.VITE_EXAMPLE_API_URL;
 
 export const GET_EXAMPLE = '/pokemon'
