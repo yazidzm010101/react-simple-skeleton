@@ -14,6 +14,8 @@ Run the development server
 yarn run dev
 ```
 
+Open [http://localhost:5173](http://localhost:5173)
+
 ## 2. Understanding the Project Structure
 My templates project structure may broken down in to this list:
 ```sh
