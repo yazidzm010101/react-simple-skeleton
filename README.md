@@ -44,5 +44,5 @@ yarn run build
 ```
 By running this command will generate compiled project to `./dist`, you can deploy the object to your hosted server
 
-## Happy coding :tada:!
+## 4. Happy coding :tada:!
 Feel free to e-mail me yazidzm.developer@gmail.com, if you have any question
