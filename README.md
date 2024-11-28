@@ -24,13 +24,13 @@ My templates project structure may broken down in to this list:
 ├── entities            ["Base model to interact within API, or within react context, basically hold most of app Interface"]
 ├── repositories        ["This the  data source/controller of the app"]
 ├── presentation        ["This is the view model of app, contains init, loading, success, error state implementation as data consumer"]
-|
+│
 ├── hooks               ["Reusable hooks that's act independent to consumed data, typically used to define UI helper such as useClickOutside, useWindowScroll, etc"]
 ├── assets              ["All static assets should be defined here"]
 ├── ui
-|   ├── components      ["Holds library components"]
-|   └── features        ["Holds UI separated per feature"]
-|
+│   ├── components      ["Holds library components"]
+│   └── features        ["Holds UI separated per feature"]
+│
 ├── App.tsx             ["Root of the app, use to declare route, and others library global context"]
 └── main.tsx            ["Injector to react DOM"]
 ```
