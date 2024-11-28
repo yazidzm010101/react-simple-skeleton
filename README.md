@@ -60,7 +60,7 @@ Here is the use case of the skeleton:
 - `RECOMMENDED` to maximize use of `presentation hooks` and `react-form-hooks` to manage data fetch and data controller logic in each features.
 - `RECOMMENDED` to use `axios` for API fetching
 
-## [5] Happy coding :tada:!
+## [5] :tada::tada::tada: Happy coding!
 Well, you've reach to the end of this page, thankyou for visiting and feel free to ask me if you have any question.
 
 ~ [mujadid](mailto:yazidzm.developer@gmail.com)
